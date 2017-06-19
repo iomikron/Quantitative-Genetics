@@ -9,10 +9,10 @@
 <h3>Contents</h3>
 <div>
   <ul>
-    <li>Hardy-Weinberg Principle
-    <li>Genetic Drift 
-    <li>Mutation
-    <li>Migration
-    <li>Natural Selection
+  <li><a href="#">Hardy-Weinberg Principle</a>
+  <li><a href="#">Genetic Drift</a> 
+    <li><a href="#">Mutation</a>
+    <li><a href="#">Migration</a>
+    <li><a href="#">Natural Selection</a>
   </ul>
 <div>
